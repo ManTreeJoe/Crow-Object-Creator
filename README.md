@@ -1,3 +1,3 @@
 # Crow-Object-Creator
 
-![]( 0001.jpg)
+![]( misc/0001.jpg)
